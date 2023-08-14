@@ -5,7 +5,7 @@ import webbrowser
 import urllib
 # Assuming you have loaded your dataset into a DataFrame called 'df'
 # Replace 'your_dataset.csv' with the actual file path if needed
-df = pd.read_csv(r'path_to_your_file')
+df = pd.read_csv(r'gymdata.csv')
 
 # Function to filter exercises based on user input
 def filter_exercises(user_input):
