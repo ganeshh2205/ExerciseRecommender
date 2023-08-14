@@ -24,7 +24,7 @@ To run the Exercise Recommendation Web App on your local machine, follow these s
 
 2. Install the required dependencies by running `pip install -r requirements.txt` in your terminal.
 
-3. Navigate to the project directory and run the app using the command `streamlit run app.py`.
+3. Navigate to the project directory and run the app using the command `streamlit run app3.py`.
 
 4. Open a web browser and go to `http://localhost:8501` to access the app.
 
