@@ -38,3 +38,10 @@ To run the Exercise Recommendation Web App on your local machine, follow these s
 
 - **Mobile Responsive:** Optimize the app's layout and design for seamless usage on mobile devices.
 
+## Try It Online
+Experience the Exercise Recommender App right now by visiting the live deployment. Simply click on the link below to access the app and start exploring exercise recommendations tailored to your preferences:
+
+👉 [Exercise Recommender App](https://exerciserecommender-g4udyywkaqdjgsbg8ytpxc.streamlit.app/)
+
+Discover a wide range of exercise options and find instructional videos to guide you on your fitness journey. Whether you're looking to target specific body parts, explore different exercise types, or find equipment-based workouts, this app has you covered.
+
